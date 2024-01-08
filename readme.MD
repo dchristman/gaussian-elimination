@@ -1,0 +1,1 @@
+Simple python script to take in a csv that contains an array and perform row reductions following Gaussian eliminations.
